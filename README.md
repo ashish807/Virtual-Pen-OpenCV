@@ -25,6 +25,9 @@ And do check about RBG, HSV
 
 ![RGBhsv](images/RGBHSV.png)
 
+And yeah please select pen somthing like this:
+
+
 Ok lets get Started!!!
 
 Please find the code for virtual pen in virtualPen.ipynb

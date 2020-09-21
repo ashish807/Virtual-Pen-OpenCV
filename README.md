@@ -32,7 +32,7 @@ And yeah please select pen somthing like this:
 ![backface](images/backface2.jpeg)
 
 So that when ever you want to write next alphabet you just have to switch the position of pen and program will no longer detect the pen and you can write next alphabet where-ever you want in the screen.
-There is no complusion that you have to select the pen similar to above images, main point just select the which have two different color for forntface and backface
+There is no complusion that you have to select the pen similar to above images, main point just select the pen which has two different color for forntface and backface
 
 Please find the code for virtual pen in virtualPen.ipynb
 

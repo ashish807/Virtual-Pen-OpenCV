@@ -26,10 +26,14 @@ And do check about RBG, HSV
 ![RGBhsv](images/RGBHSV.png)
 
 And yeah please select pen somthing like this:
-
-
-Ok lets get Started!!!
+![frontface](images/frontface.jpeg)
+![backface](images/backface.jpeg)
+So that when ever you want write next alphabet you just have to switch the position pen and program no longer detect the pen and you can write next alphabet where-ever you want in the screen
 
 Please find the code for virtual pen in virtualPen.ipynb
 
-If you want to set you own range of value for masking then please do find code for that in sethsv.py file
+Feel free to set your own range during mask, and to set the upper and lower range for cv2.inRange() you can run ![this](sethsv.py) file.
+
+Ok lets get Started!!!
+
+

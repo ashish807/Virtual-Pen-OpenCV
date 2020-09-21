@@ -3,6 +3,7 @@
 # Please Note this project was completed only using OpenCv
 
 This Project was completed using OpenCv only, If you hope to find Deep Learning and Machine Learning in this project then you won't find any!!!
+[Demo video](https://drive.google.com/file/d/1Kva5cZ84dVOGC2MCYT6LDI6vEOq_JoJB/view?usp=sharing)
 
 This Project was done using 6 steps:
 

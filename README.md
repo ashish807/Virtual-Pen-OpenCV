@@ -26,8 +26,8 @@ And do check about RBG, HSV
 ![RGBhsv](images/RGBHSV.png)
 
 And yeah please select pen somthing like this:
-![frontface](images/frontface1.jpeg)
-![backface](images/backface1.jpeg)
+![frontface](images/frontface2.jpeg)
+![backface](images/backface2.jpeg)
 So that when ever you want write next alphabet you just have to switch the position of pen and program will no longer detect the pen and you can write next alphabet where-ever you want in the screen.
 There is no complusion that you have to select the pen similar to above images, main point just select the which have two different color for forntface and backface
 

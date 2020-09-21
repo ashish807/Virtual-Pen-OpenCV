@@ -23,7 +23,7 @@ Before moving on I strongly recommend you to check Edge detection, Countor Detec
 
 And do check about RBG, HSV
 
-![RGB&HSV](https://github.com/ashish807/Virtual-Pen-OpenCV/tree/master/images/RGBHSV.png)
+![RGBhsv] (images/RGBHSV.png)
 
 Ok lets get Started!!!
 

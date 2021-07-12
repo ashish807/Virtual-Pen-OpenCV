@@ -21,7 +21,7 @@ This Project was done using 6 steps:
 6) Add an Eraser Functionality to erase parts of the drawing
 
 
-Before moving on I strongly recommend you to check Edge detection, Countor Detection, BacgroundSubtractor and look how to find them in OpenCV and all the Parameteres they accept
+Before moving on I strongly recommend you to check Edge detection, Countor Detection, BackgroundSubtractor and look how to find them in OpenCV and all the Parameteres they accept
 
 And do check about RBG, HSV
 

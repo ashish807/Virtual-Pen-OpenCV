@@ -4,7 +4,7 @@
 
 This Project was completed using OpenCv only, If you hope to find Deep Learning and Machine Learning in this project then you won't find any!!!
 
-[Demo video](https://drive.google.com/file/d/1Kva5cZ84dVOGC2MCYT6LDI6vEOq_JoJB/view?usp=sharing)
+[Demo video](https://www.youtube.com/watch?v=oCMDS1or8uU&list=PLTF3IuEBiwpYLa1IIQD-5s7XxXg2vDM5T&index=3&ab_channel=TowardsA.I.)
 
 This Project was done using 6 steps:
 
